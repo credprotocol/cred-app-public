@@ -1,0 +1,8 @@
+//* RECHARTS
+
+// overriding the dash array from vertical cartesian lines
+.recharts-cartesian-grid-vertical {
+  line {
+    stroke-dasharray: 0;
+  }
+}
